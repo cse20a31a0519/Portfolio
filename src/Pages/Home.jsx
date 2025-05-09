@@ -14,7 +14,7 @@ function Home() {
       </p>
       <div className="flex flex-wrap justify-center gap-4">
         <a
-          href="/Resume.pdf"
+          href="https://drive.google.com/file/d/1-tRnnm8fJSoeXSeFD5hy8G88oA3FwECP/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-blue-500 text-white px-5 py-3 rounded-md hover:bg-blue-600 transition  text-decoration-none"
@@ -22,7 +22,8 @@ function Home() {
           View Resume
         </a>
         <a
-          href="/Resume.pdf"
+          href="https://drive.google.com/file/d/1-tRnnm8fJSoeXSeFD5hy8G88oA3FwECP/view?usp=drive_link"
+          target="_blank"
           download
           className="bg-white text-gray-900 px-5 py-3 rounded-md hover:bg-gray-100 transition text-decoration-none"
         >
